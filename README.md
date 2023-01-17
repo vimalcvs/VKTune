@@ -23,15 +23,13 @@ The project is currently in an unstable stage. If you encounter bugs, please rep
 * Support proxy
 * Support Android Auto
 
-
-
-<img src="/1%20(3).png" width="250"/> 
-<img src"/1%20(2).png" width="250"/>
-<img src"/1%20(1).png" width="250"/>
-<img src"/1%20(4).png" width="250"/>
-<img src"/1%20(5).png" width="250"/>
-
-
+<img src="/1.png" width="250"/> 
+<img src"/2.png" width="250"/>
+<img src"/3.png" width="250"/>
+<img src"/4.png" width="250"/>
+<img src"/5.png" width="250"/>
+<img src"/6.png" width="250"/>
+<img src"/7.png" width="250"/>
 
 #Versions
 Although APK downloads are available below to give you the choice, you should be aware that by installing that way you will not receive update notifications and it's a less secure way to download. We recommend that you install the F-Droid client and use that.
